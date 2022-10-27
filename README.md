@@ -1,6 +1,6 @@
-# API-nodejs-and-yarn
+# API WITCH NODE.JS AND YARN
 
-# METHODS:
+## METHODS:
 -GET
 -POST
 -PUT
